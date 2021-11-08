@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jideoyelayo1
 - 👀 I’m interested in Programming and making projects
-- 🌱 I’m currently learning C++
+- 🌱 I currently enjoy making projects in Csharp but I am a fast learner who is open to use other languages
 - 💞️ I’m looking to collaborate on machine learning projects or just projects in general 
 - 📫 How to reach me at my email JideOyelayo1@Gmail.com
 
