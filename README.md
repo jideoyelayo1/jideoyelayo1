@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jideoyelayo1
-I am Currently a Sensor Design in Systems Engineering Intern at IDEX Biometrics
+and I am Currently a Sensor Design in Systems Engineering Intern at IDEX Biometrics
 - 👀 I’m interested in Programming and making projects
 - 🌱 I currently enjoy making projects in Csharp but I am a fast learner who is open to use other languages
 - 💞️ I’m looking to collaborate on machine learning projects or just projects in general 
