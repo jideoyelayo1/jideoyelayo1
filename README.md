@@ -25,12 +25,7 @@
 <br />
 
 ### :chart_with_upwards_trend: GitHub Stats:
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jideoyelayo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jideoyelayo1&show_icons=true&theme=radical)
+<img align="center" alt="FPGA" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jideoyelayo1&layout=compact" /> <img align="center" alt="FPGA" width="520px" src="https://github-readme-stats.vercel.app/api?username=jideoyelayo1&show_icons=true&theme=radical" />
 
 <br />
 <br />
