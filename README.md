@@ -21,6 +21,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="FPGA" width="26px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/ab137082ad40cabb23d4baf1500ea6/FPGA-LOGO.png?auto=format%2Ccompress&dpr=1" />
+<img align="left" alt="MATLAB" width="26px" src="https://github.com/jideoyelayo1/jideoyelayo1/assets/41443216/de995a59-97d9-45c1-bc7e-c3d7688e2a79" />
 <br />
 <br />
 
