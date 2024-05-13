@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jideoyelayo1
-- This summer I worked on Sensor Design as a Systems Engineering Intern at IDEX Biometrics
-- 👀 I’m interested in Programming and making projects
-- 🌱 I currently enjoy making projects in Csharp but I am a fast learner who is open to use other languages
-- 💞️ I’m looking to collaborate on machine learning projects or just projects in general 
+- I am currently working as a Software Engineer
+- 👀 I’m interested in Finance and Machine Learning
+- 🌱 I currently enjoy making projects in C++ and Python the most but I am a fast learner who is open to use other languages
+- 💞️ I’m looking to collaborate on machine learning projects, Quant projects or just projects in general 
 - 📫 How to reach me at my email JideOyelayo1@Gmail.com
 
 
