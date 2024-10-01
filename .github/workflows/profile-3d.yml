@@ -1,8 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # This triggers the action daily at 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    # This triggers the action daily at 12:00 AM and 12:00 PM UK time
+    - cron: "0 23,11 * * *" # 11 PM and 11 AM UTC
   workflow_dispatch:
 
 jobs:
