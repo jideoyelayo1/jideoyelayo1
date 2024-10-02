@@ -26,7 +26,7 @@
 <br />
 
 ### :chart_with_upwards_trend: GitHub Stats:
-![My Project Logo](profile-3d-contrib/profile-season-animate.svg)
+![My Project Logo](profile-3d-contrib/profile-night-view.svg)
 
 
 <br />
