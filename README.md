@@ -26,7 +26,8 @@
 <br />
 
 ### :chart_with_upwards_trend: GitHub Stats:
-<img align="center" alt="FPGA" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jideoyelayo1&layout=compact" /> <img align="center" alt="FPGA" width="350px" src="https://github-readme-stats.vercel.app/api?username=jideoyelayo1&show_icons=true&theme=radical" />
+![My Project Logo](profile-3d-contrib/profile-season-animate.svg)
+
 
 <br />
 <br />
