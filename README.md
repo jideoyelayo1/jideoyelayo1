@@ -5,6 +5,10 @@
 - 💞️ I’m looking to collaborate on machine learning projects, Quant projects or just projects in general 
 - 📫 How to reach me at my email JideOyelayo1@Gmail.com
 
+  
+![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jideoyelayo.com/)
 
 
 ### Languages and Tools:
@@ -31,3 +35,9 @@
 
 <br />
 <br />
+
+### 🏆 GitHub Trophies
+
+<img align="left" alt="Visual Studio Code"
+src="https://github-profile-trophy.vercel.app/?username=jideoyelayo1&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+
