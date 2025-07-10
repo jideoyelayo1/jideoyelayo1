@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jideoyelayo1
-- I am currently working as a Software Engineer
-- 👀 I’m interested in Finance and Machine Learning
-- 🌱 I currently enjoy making projects in C++ and Python the most but I am a fast learner who is open to use other languages
-- 💞️ I’m looking to collaborate on machine learning projects, Quant projects or just projects in general 
+- 1.5 years experience as a software engineer 
+- 🌱 I currently enjoy making projects in C++, React and Python the most but I am a fast learner who is open to use other languages
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me at my email JideOyelayo1@Gmail.com
 
   
