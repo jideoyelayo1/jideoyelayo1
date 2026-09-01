@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jideoyelayo1
-- 1.5 years experience as a software engineer 
+-  Software Engineer 
 - 🌱 I currently enjoy making projects in C++, React and Python the most but I am a fast learner who is open to use other languages
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me at my email JideOyelayo1@Gmail.com
